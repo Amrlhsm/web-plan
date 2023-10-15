@@ -1,0 +1,3 @@
+Target 
+- Semester 5 Konsisten ngulik html CSS
+- udah bisa buat tampilan web sendiri/portofolio (html-css)
